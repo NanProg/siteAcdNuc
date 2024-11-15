@@ -17,7 +17,8 @@ body {
     margin: auto;
     margin-top: 10%;
     border-radius: 10px;
-    display: table;
+    display: flex;
+    flex-direction: column;
     text-align: center;
 
 }
@@ -36,6 +37,6 @@ header {
 }
 
 li {
-    list-style: none;
+    list-style: none; 
     margin-top: 10%;
 }
