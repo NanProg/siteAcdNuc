@@ -45,4 +45,9 @@ a {
     font-size: x-large;
 }
 
+img {
+    margin-top: 3%;
+    position: relative;
+    left: 47%;
+}
 
