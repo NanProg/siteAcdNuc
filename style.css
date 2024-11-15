@@ -11,9 +11,8 @@ body {
 
 .hub {
     background: white;
-    width: 30%;
-    height: 450px;
-    display: flex;
+    width: 25%;
+    height: 400px;
     margin: auto;
     margin-top: 10%;
     border-radius: 10px;
@@ -24,8 +23,9 @@ body {
 }
 
 header {
-    background: yellow;
-    border-radius: 10px;
+    background: #F6BE00;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
     display: flex;
     align-items: center;
     text-align: center;
@@ -33,10 +33,12 @@ header {
 
 .hub_inferior {
     background: white;
-    box-shadow: 1px 1px 10px #000;
 }
 
 li {
     list-style: none; 
     margin-top: 10%;
+    text-decoration: none;
 }
+
+
